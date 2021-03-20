@@ -977,4 +977,3 @@ zap.zip
 zeroteam.zip
 zintrckb.zip
 zupapa.zip
-sfzch_cps15.zip
